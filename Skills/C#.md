@@ -1,85 +1,85 @@
-## Programming fundamental concepts
+﻿## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
+  - Object 🖐️ used
+  - this 🖐️ used
+  - arrow function 🖐️ used
+  - async function 🖐️ used
   - call
   - bind
   - apply
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof 🖐️ used
   - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
+  - generator 👂 heard
+  - iterator 👂 heard
+  - async generator 👂 heard
+  - async iterator 👂 heard
+  - chaining 🖐️ used
+  - optional chaining 🖐️ used
   - IIFE
   - global
   - globalThis
   - window
-  - getters and setters
+  - getters and setters 👂 heard
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
-  - template literal
+  - equality operators 🙋 explained
+  - logical operators 🙋 explained
+  - bitwise operators 🙋 explained
+  - ternary operator 🙋 explained
+  - void 🙋 explained
+  - yield 🖐️ used
+  - await 🙋 explained
+  - template literal 👂 heard
   - strict mode
   - delete
-  - in
-  - super
+  - in 🖐️ used
+  - super 👂 heard
   - Symbol
-  - Reflect
+  - Reflect 🖐️ used
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if 🙋 explained
+  - while 🙋 explained
+  - do..while 🎓 known
+  - for 🙋 explained
+  - for..in 🖐️ used
+  - for..of 👂 heard
   - for await
-  - throw
-  - break
-  - continue
-  - import
+  - throw 🖐️ used
+  - break 🖐️ used
+  - continue 👂 heard
+  - import 🖐️ used
   - export
   - label
-  - try..catch
-  - switch
-  - class
-  - new Error
+  - try..catch 🖐️ used
+  - switch 🖐️ used
+  - class 🎓 known
+  - new Error 🖐️ used
   - with
 - Functions
-  - function declaration
+  - function declaration 🙋 explained
   - function expression
-  - return
-  - default parameters
+  - return 🙋 explained
+  - default parameters 🎓 known
   - functional object
 - Data structures
-  - Array
-  - mixin
-  - extend
+  - Array 🙋 explained
+  - mixin 
+  - extend 
   - typed arrays
-  - Map
+  - Map 🖐️ used
   - Set
   - undefined
-  - null
+  - null 🙋 explained
   - Proxy
   - weak collections
-  - timers
-  - EventEmitter
+  - timers 🖐️ used
+  - EventEmitter 👂 heard
   - RegExp
-  - Date
+  - Date 👂 heard
   - BigInt
 - Infrastructure
   - V8

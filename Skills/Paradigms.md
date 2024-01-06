@@ -1,17 +1,17 @@
-## Multi-paradigm programming
+﻿## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming 👂 heard
   - Imperative programming
   - Structured programming
-  - Non-structured programming
+  - Non-structured programming 🖐️ used
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming 🎓 known
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming
+  - Asyncronous programming 👂 heard
   - Parallel programming
   - Reactive programming
   - FRP (Functional-reactive)
@@ -22,35 +22,35 @@
   - Actor model
 - OOP basics
   - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
+  - new 🖐️ used
+  - Static method 👂 heard
+  - Method 👂 heard
+  - Async method 🖐️ used
+  - Getters, Setters 👂 heard
+  - Public fields 🙋 explained
+  - Private fields 🙋 explained
   - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
+  - Inheritance 👂 heard
+  - Parent class 👂 heard
+  - Polymorphism 👂 heard
   - Abstract class
-  - Interface
-  - Encapsulation
+  - Interface 👂 heard
+  - Encapsulation 👂 heard
   - Hidden class
   - Object form
-  - instance
+  - instance 👂 heard
   - Introspection
-  - Reflection
+  - Reflection 🖐️ used
 - Patterns
-  - Singleton
-  - Factory Method
+  - Singleton 👂 heard
+  - Factory Method 👂 heard
   - Abstract Factory
   - Adapter
-  - Observer
+  - Observer 👂 heard
   - Strategy
   - Facade
   - Proxy
-  - Chain of Responsibility
+  - Chain of Responsibility 👂 heard
   - Command
   - Iterator
   - State

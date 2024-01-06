@@ -1,45 +1,45 @@
-## Asynchronous programming
+﻿## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
-  - CAS operations
+  - Event loop 🖐️ used
+  - try..catch 🖐️ used
+  - Non-blocking 🖐️ used
+  - Async I/O 🖐️ used
+  - Thread pool 👂 heard
+  - Pattern Reactor 👂 heard
+  - CAS operations 👂 heard
   - epoll
   - kqueue
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Race conditions 🖐️ used
+  - Dead locks 👂 heard
+  - Live locks 👂 heard
+  - Concurrent programming 👂 heard
+  - Parallel programming 👂 heard
   - Actor Model
-  - Thread
-  - Process
+  - Thread 🖐️ used
+  - Process 🖐️ used
 - Async contracts
-  - Callbacks
+  - Callbacks 👂 heard
   - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
+  - Thenable 👂 heard
+  - Promise 👂 heard
+  - Async/await 🙋 explained
   - Future
   - Deferred
   - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
-  - Coroutine
+  - Async Generator 👂 heard
+  - Async Iterator 👂 heard
+  - Event 🖐️ used
+  - Coroutine 🖐️ used
   - Goroutine
   - Signal
-  - Stream
+  - Stream 🖐️ used
   - Chain of responsibility
   - Middleware
-  - Locks
+  - Locks 🖐️ used
 - Async adapters and utils
   - callbackify
   - promisify
@@ -48,12 +48,12 @@
   - async compose
 - Async abstractions interfaces
   - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
+  - Observable/Observer 🖐️ used
+  - Readable 👂 heard
+  - Writable 👂 heard
   - Transform
   - Async Pool
-  - Async Queue
+  - Async Queue 👂 heard
   - Async Collector
   - Semaphore
   - Mutex
