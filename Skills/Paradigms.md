@@ -1,18 +1,18 @@
 ﻿## Multi-paradigm programming
 
 - Theory
-  - Procedural programming 👂 heard
-  - Imperative programming
-  - Structured programming
+  - Procedural programming 🎓 known
+  - Imperative programming 👂 heard
+  - Structured programming 👂 heard
   - Non-structured programming 🖐️ used
-  - Functional programming
+  - Functional programming 👂 heard
   - Prototype-based programming
-  - Object-oriented programming 🎓 known
-  - Object-based programming
+  - Object-oriented programming 🙋 explained
+  - Object-based programming 👂 heard
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming 👂 heard
-  - Parallel programming
+  - Asyncronous programming 🖐️ used
+  - Parallel programming 👂 heard
   - Reactive programming
   - FRP (Functional-reactive)
   - Automata-based programming
@@ -22,43 +22,43 @@
   - Actor model
 - OOP basics
   - constructor
-  - new 🖐️ used
-  - Static method 👂 heard
-  - Method 👂 heard
+  - new 🙋 explained
+  - Static method 🖐️ used
+  - Method 🎓 known
   - Async method 🖐️ used
-  - Getters, Setters 👂 heard
+  - Getters, Setters 🎓 known
   - Public fields 🙋 explained
   - Private fields 🙋 explained
   - Field declarations
-  - Inheritance 👂 heard
-  - Parent class 👂 heard
-  - Polymorphism 👂 heard
+  - Inheritance 🙋 explained
+  - Parent class 🙋 explained
+  - Polymorphism 🙋 explained
   - Abstract class
-  - Interface 👂 heard
-  - Encapsulation 👂 heard
+  - Interface 🙋 explained
+  - Encapsulation 🙋 explained
   - Hidden class
   - Object form
-  - instance 👂 heard
+  - instance 🙋 explained
   - Introspection
-  - Reflection 🖐️ used
+  - Reflection 🙋 explained
 - Patterns
-  - Singleton 👂 heard
-  - Factory Method 👂 heard
+  - Singleton 🙋 explained
+  - Factory Method 🎓 known
   - Abstract Factory
   - Adapter
-  - Observer 👂 heard
+  - Observer 🎓 known
   - Strategy
   - Facade
   - Proxy
-  - Chain of Responsibility 👂 heard
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
+  - Chain of Responsibility 🎓 known
+  - Command 👂 heard
+  - Iterator 🎓 known
+  - State 👂 heard
+  - Bridge 👂 heard
+  - Builder 👂 heard
+  - Prototype 👂 heard
+  - Composite 👂 heard
+  - Decorator 👂 heard
   - Flyweight
   - Mediator
   - Memento

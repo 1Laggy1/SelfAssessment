@@ -12,12 +12,12 @@
   - function 🙋 explained
   - procedure 👂 heard
   - method 🙋 explained
-  - class 🖐️ used
-  - prototype 🖐️ used
+  - class 🙋 explained
+  - prototype 🙋 explained
   - event 🙋 explained
   - type 🙋 explained
-  - primitive types 🖐️ used
-  - reference types 🖐️ used
+  - primitive types 🙋 explained
+  - reference types 🙋 explained
   - flag 👂 heard
   - lexical scope 🖐️ used
   - code block 🙋 explained
@@ -25,8 +25,8 @@
   - loops 🙋 explained
   - assignment 🙋 explained
   - regular expression 👂 heard
-  - interface 🖐️ used
-  - contract 👂 heard
+  - interface 🙋 explained
+  - contract 🎓 known
   - module 👂 heard
   - call stack 🙋 explained
 - Functions
@@ -34,18 +34,18 @@
   - argument 🙋 explained
   - parameter 🙋 explained
   - pure function 🎓 known
-  - lambda expression 🎓 known
+  - lambda expression 🖐️ used
   - side effects 🎓 known
   - closure 👂 heard
   - partial application 👂 heard
-  - curry 👂 heard
+  - curry 🎓 known
   - higher order 👂 heard
   - recursion 🙋 explained
   - callback 👂 heard
   - listener 🖐️ used
-  - compose 👂 heard
-  - pipe 👂 heard
-  - memoize 👂 heard
+  - compose 🎓 known
+  - pipe 🎓 known
+  - memoize 🎓 known
   - wrapper 🖐️ used
   - functor 👂 heard
   - monad 👂 heard
@@ -56,51 +56,51 @@
   - array 🙋 explained
   - structure 🙋 explained
   - record 🖐️ used
-  - enum 🎓 known
-  - instance 👂 heard
-  - object 🎓 known
-  - class 🖐️ used
-  - collection 🖐️ used
+  - enum 🙋 explained
+  - instance 🙋 explained
+  - object 🖐️ used
+  - class 🙋 explained
+  - collection 🙋 explained
   - set 👂 heard
   - hash table 🖐️ used
-  - linked list 👂 heard
+  - linked list 🖐️ used
   - doubly list 👂 heard
   - unrolled list 👂 heard
   - circular list 👂 heard
-  - queue 🖐️ used
-  - stack 👂 heard
-  - deque 👂 heard
+  - queue 🙋 explained
+  - stack 🎓 known
+  - deque 🎓 known
   - tree 👂 heard
-  - graph 👂 heard
-  - iterator 👂 heard
-  - mutable state 👂 heard
-  - immutable state 👂 heard
-  - serialization 👂 heard
+  - graph 🎓 known
+  - iterator 🎓 known
+  - mutable state 🎓 known
+  - immutable state 🎓 known
+  - serialization 🎓 known
   - string parsing 🙋 explained
 - Process & style
   - compiler 🖐️ used
-  - transpiler 👂 heard
-  - linter 👂 heard
-  - polyfill 👂 heard
+  - transpiler 🎓 known
+  - linter 🎓 known
+  - polyfill 🎓 known
   - debugger 🖐️ used
-  - garbage collection 🖐️ used
+  - garbage collection 🙋 explained
   - refactoring 🖐️ used
   - code review 🙋 explained
-  - antipatterns 🖐️ used
+  - antipatterns 🙋 explained
   - paradigm 🖐️ used
   - algorithm 🖐️ used
-  - magic numbers 🖐️ used
-  - hardcode 🖐️ used
+  - magic numbers 🙋 explained
+  - hardcode 🙋 explained
   - complexity 🖐️ used
-  - decomposition 🖐️ used
-  - spaghetti 🖐️ used
-  - silver bullet 👂 heard
-  - not invented here 🖐️ used
-  - dead code  🎓 known
+  - decomposition 🙋 explained
+  - spaghetti 🙋 explained
+  - silver bullet 🎓 known
+  - not invented here 🙋 explained
+  - dead code  🙋 explained
   - unreachable code 🖐️ used
-  - duplicate code 🎓 known
-  - exception 🖐️ used
-  - return early 🖐️ used
+  - duplicate code 🙋 explained
+  - exception 🙋 explained
+  - return early 🙋 explained
   - unittest 🎓 known
-  - git 👂 heard
-  - github 👂 heard
+  - git 🖐️ used
+  - github 🖐️ used

@@ -1,29 +1,29 @@
 ﻿## Programming fundamental concepts
 
 - Language
-  - Object 🖐️ used
-  - this 🖐️ used
-  - arrow function 🖐️ used
-  - async function 🖐️ used
+  - Object 🙋 explained
+  - this 🙋 explained
+  - arrow function 🙋 explained
+  - async function 🙋 explained
   - call
   - bind
   - apply
   - instanceof
   - ...spread
   - ...rest
-  - typeof 🖐️ used
+  - typeof 🙋 explained
   - destructuring
-  - generator 👂 heard
-  - iterator 👂 heard
-  - async generator 👂 heard
-  - async iterator 👂 heard
+  - generator 🎓 known
+  - iterator 🎓 known
+  - async generator 🎓 known
+  - async iterator 🎓 known
   - chaining 🖐️ used
   - optional chaining 🖐️ used
   - IIFE
   - global
   - globalThis
   - window
-  - getters and setters 👂 heard
+  - getters and setters 🎓 known
   - __proto__
   - prototype
   - equality operators 🙋 explained
@@ -31,44 +31,44 @@
   - bitwise operators 🙋 explained
   - ternary operator 🙋 explained
   - void 🙋 explained
-  - yield 🖐️ used
+  - yield 🙋 explained
   - await 🙋 explained
-  - template literal 👂 heard
+  - template literal 🎓 known
   - strict mode
   - delete
-  - in 🖐️ used
-  - super 👂 heard
+  - in 🙋 explained
+  - super 🙋 explained
   - Symbol
   - Reflect 🖐️ used
 - Statements
   - if 🙋 explained
   - while 🙋 explained
-  - do..while 🎓 known
+  - do..while 🙋 explained
   - for 🙋 explained
-  - for..in 🖐️ used
-  - for..of 👂 heard
+  - for..in 🙋 explained
+  - for..of 🙋 explained
   - for await
-  - throw 🖐️ used
-  - break 🖐️ used
-  - continue 👂 heard
+  - throw 🙋 explained
+  - break 🙋 explained
+  - continue 🙋 explained
   - import 🖐️ used
   - export
   - label
-  - try..catch 🖐️ used
-  - switch 🖐️ used
-  - class 🎓 known
-  - new Error 🖐️ used
+  - try..catch 🙋 explained
+  - switch 🙋 explained
+  - class 🙋 explained
+  - new Error 🙋 explained
   - with
 - Functions
   - function declaration 🙋 explained
   - function expression
   - return 🙋 explained
-  - default parameters 🎓 known
-  - functional object
+  - default parameters 🙋 explained
+  - functional object 👂 heard
 - Data structures
   - Array 🙋 explained
-  - mixin 
-  - extend 
+  - mixin 👂 heard
+  - extend 👂 heard
   - typed arrays
   - Map 🖐️ used
   - Set
@@ -77,9 +77,9 @@
   - Proxy
   - weak collections
   - timers 🖐️ used
-  - EventEmitter 👂 heard
+  - EventEmitter 🖐️ used
   - RegExp
-  - Date 👂 heard
+  - Date 🖐️ used
   - BigInt
 - Infrastructure
   - V8

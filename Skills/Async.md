@@ -1,39 +1,39 @@
 ﻿## Asynchronous programming
 
 - Theory
-  - Event loop 🖐️ used
-  - try..catch 🖐️ used
+  - Event loop 🙋 explained
+  - try..catch 🙋 explained
   - Non-blocking 🖐️ used
-  - Async I/O 🖐️ used
+  - Async I/O 🙋 explained
   - Thread pool 👂 heard
-  - Pattern Reactor 👂 heard
-  - CAS operations 👂 heard
-  - epoll
-  - kqueue
-  - Completion ports
-  - Event ports
-  - libuv
-  - Race conditions 🖐️ used
-  - Dead locks 👂 heard
-  - Live locks 👂 heard
-  - Concurrent programming 👂 heard
-  - Parallel programming 👂 heard
+  - Pattern Reactor 🎓 known
+  - CAS operations 🎓 known
+  - epoll 👂 heard
+  - kqueue 👂 heard
+  - Completion ports 🎓 known
+  - Event ports 🎓 known
+  - libuv 👂 heard
+  - Race conditions 🙋 explained
+  - Dead locks 🎓 known
+  - Live locks 🎓 known
+  - Concurrent programming 🎓 known
+  - Parallel programming 🖐️ used
   - Actor Model
   - Thread 🖐️ used
   - Process 🖐️ used
 - Async contracts
-  - Callbacks 👂 heard
+  - Callbacks 🎓 known
   - Callback-last-error-first
-  - Thenable 👂 heard
-  - Promise 👂 heard
+  - Thenable 🎓 known
+  - Promise 🎓 known
   - Async/await 🙋 explained
-  - Future
-  - Deferred
-  - Sync generator
-  - Async Generator 👂 heard
-  - Async Iterator 👂 heard
-  - Event 🖐️ used
-  - Coroutine 🖐️ used
+  - Future 👂 heard
+  - Deferred 👂 heard
+  - Sync generator 👂 heard
+  - Async Generator 🎓 known
+  - Async Iterator 🎓 known
+  - Event 🙋 explained
+  - Coroutine 🙋 explained
   - Goroutine
   - Signal
   - Stream 🖐️ used
@@ -47,14 +47,14 @@
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter 🖐️ used
   - Observable/Observer 🖐️ used
-  - Readable 👂 heard
-  - Writable 👂 heard
-  - Transform
-  - Async Pool
-  - Async Queue 👂 heard
-  - Async Collector
+  - Readable 🎓 known
+  - Writable 🎓 known
+  - Transform 👂 heard
+  - Async Pool 👂 heard
+  - Async Queue 🎓 known
+  - Async Collector 👂 heard
   - Semaphore
   - Mutex
   - Spin Lock
